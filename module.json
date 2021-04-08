@@ -1,0 +1,42 @@
+{
+   "name": "dcc-7-beauties",   
+   "title": "DCC 7 Beauties",
+   "description": "A level 1 adventure",   
+   "author": "Christian Ovsenik, Maps: Christian Ovsenik, with art by: Brad McDevitt",
+   "version": "1.01",
+   "minimumCoreVersion": "0.7.9",
+   "compatibleCoreVersion":"0.7.9",
+   "url": "",
+   "download": "https://github.com/algnc/dcc-7-beauties/archive/refs/heads/main.zip",
+   "manifest": "",
+   "packs": [
+     {
+	"name": "dcc-7-beauties-monsters",
+	"label": "7 Beauties Monsters",
+	"path": "packs/dcc-7-beauties-monsters.db",
+	"entity": "Actor",
+	"module": "dcc-7-beauties"
+     },
+     {
+	"name": "dcc-7-beauties-magic-items",
+	"label": "7 Beauties Magic Items",
+	"path": "packs/dcc-7-beauties-magic-items.db",
+	"entity": "Item",
+	"module": "dcc-7-beauties"
+     },
+     {
+        "name": "dcc-7-beauties-scenes",
+        "label": "7 Beauties Scenes",
+        "path": "packs/dcc-7-beauties-scenes.db",
+	"entity": "Scene",
+	"module": "dcc-7-beauties"
+     },
+     {
+	"name": "dcc-7-beauties-journals",
+	"label": "7 Beauties Journals",
+	"path": "packs/dcc-7-beauties-journals.db",
+	"entity": "JournalEntry",
+	"module": "dcc-7-beauties"
+     }
+   ]	
+}
