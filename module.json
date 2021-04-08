@@ -8,7 +8,7 @@
    "compatibleCoreVersion":"0.7.9",
    "url": "",
    "download": "https://github.com/algnc/dcc-7-beauties/archive/refs/heads/main.zip",
-   "manifest": "",
+   "manifest": "https://raw.githubusercontent.com/algnc/dcc-7-beauties/main/module.json",
    "packs": [
      {
 	"name": "dcc-7-beauties-monsters",
