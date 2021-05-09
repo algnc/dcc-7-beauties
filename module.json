@@ -3,10 +3,11 @@
    "title": "DCC 7 Beauties",
    "description": "A level 1 adventure",   
    "author": "Christian Ovsenik, Maps: Christian Ovsenik, with art by: Brad McDevitt",
-   "version": "1.04",
+   "version": "1.06",
    "minimumCoreVersion": "0.7.9",
    "compatibleCoreVersion":"0.7.9",
    "url": "",
+   "system": ["dcc"],
    "download": "https://github.com/algnc/dcc-7-beauties/archive/refs/heads/main.zip",
    "manifest": "https://raw.githubusercontent.com/algnc/dcc-7-beauties/main/module.json",
    "packs": [
