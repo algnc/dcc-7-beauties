@@ -16,7 +16,7 @@
 	"label": "7 Beauties Monsters",
 	"path": "packs/dcc-7-beauties-monsters.db",
 	"entity": "Actor",
-	"type": "Actor",
+	"Type": "Actor",
 	"module": "dcc-7-beauties"
      },
      {
@@ -24,7 +24,7 @@
 	"label": "7 Beauties Magic Items",
 	"path": "packs/dcc-7-beauties-magic-items.db",
 	"entity": "Item",
-	"type": "Item",
+	"Type": "Item",
 	"module": "dcc-7-beauties"
      },
      {
