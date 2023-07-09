@@ -16,6 +16,7 @@
 	"label": "7 Beauties Monsters",
 	"path": "packs/dcc-7-beauties-monsters.db",
 	"entity": "Actor",
+	"type": "Actor",
 	"module": "dcc-7-beauties"
      },
      {
@@ -23,6 +24,7 @@
 	"label": "7 Beauties Magic Items",
 	"path": "packs/dcc-7-beauties-magic-items.db",
 	"entity": "Item",
+	"type": "Item",
 	"module": "dcc-7-beauties"
      },
      {
@@ -30,6 +32,7 @@
         "label": "7 Beauties Scenes",
         "path": "packs/dcc-7-beauties-scenes.db",
 	"entity": "Scene",
+	"Type": "Scene",
 	"module": "dcc-7-beauties"
      },
      {
@@ -37,6 +40,7 @@
 	"label": "7 Beauties Journals",
 	"path": "packs/dcc-7-beauties-journals.db",
 	"entity": "JournalEntry",
+	"Type": "JournalEntry",
 	"module": "dcc-7-beauties"
      }
    ]	
