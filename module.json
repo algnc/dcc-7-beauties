@@ -5,7 +5,7 @@
    "author": "Christian Ovsenik, Maps: Christian Ovsenik, with art by: Brad McDevitt",
    "version": "1.07",
    "minimumCoreVersion": "0.7.9",
-   "compatibleCoreVersion":"0.8.8",
+   "compatibleCoreVersion":"0.11.0",
    "url": "",
    "system": ["dcc"],
    "download": "https://github.com/algnc/dcc-7-beauties/archive/refs/heads/main.zip",
